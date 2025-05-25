@@ -241,8 +241,8 @@ kakaobank/
 
 4. **캘린더 에이전트 테스트**
 - 캘린더 등록
-![스크린샷 2025-05-25 오후 5 14 37](https://github.com/user-attachments/assets/024baab8-bd7a-45cb-9d73-a024d648ee9a)
-![스크린샷 2025-05-25 오후 5 15 08](https://github.com/user-attachments/assets/c11d9eaf-c149-458c-aed0-732fde565c5a)
+![스크린샷 2025-05-25 오후 5 26 42](https://github.com/user-attachments/assets/2616139a-1eac-4a3b-87fc-951abfb86709)
+![스크린샷 2025-05-25 오후 5 26 38](https://github.com/user-attachments/assets/6a8fa32a-fdaa-47b2-aafe-ad455eaa7a1f)
 
 - 캘린더 조회, 삭제
 
