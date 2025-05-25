@@ -249,7 +249,6 @@ kakaobank/
 
 
 - 캘린더 삭제
-![스크린샷 2025-05-25 오후 5 23 41](https://github.com/user-attachments/assets/63f9bcc8-6cda-4656-8993-ddfc78262a78)
 
 
 
