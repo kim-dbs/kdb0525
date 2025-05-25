@@ -162,24 +162,14 @@ Travel Agent ←→ Restaurant Agent ←→ Calendar Agent
 
 ## 🚀 설치 및 실행
 
-### 1. 환경 설정
-
-
-# 의존성 설치
-pip install -r requirements.txt
-```
-
-### 2. 환경 변수 설정
-`.env` 파일을 생성하고 다음 내용을 추가:
-```env
-OPENAI_API_KEY=your_openai_api_key
-GOOGLE_API_KEY=your_google_api_key
-GOOGLE_CSE_ID=your_google_cse_id
-```
-
-### 3. 실행
+실행 Script
+- 파이썬 캐시 삭제
+- API key 설정 체크
+- 의존성 설치 (requirements.txt)
+- 포트 설정
+- Streamlit UI 실행
 ```bash
-streamlit run main.py
+./run.sh
 ```
 
 ## 📁 프로젝트 구조
