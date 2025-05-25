@@ -243,8 +243,11 @@ kakaobank/
 - 캘린더 등록
 ![스크린샷 2025-05-25 오후 5 14 37](https://github.com/user-attachments/assets/024baab8-bd7a-45cb-9d73-a024d648ee9a)
 ![스크린샷 2025-05-25 오후 5 15 08](https://github.com/user-attachments/assets/c11d9eaf-c149-458c-aed0-732fde565c5a)
+
 - 캘린더 조회
 ![스크린샷 2025-05-25 오후 5 21 25](https://github.com/user-attachments/assets/7fc6bcc7-3813-402c-bae7-19a34aa6ebc8)
+
+
 - 캘린더 삭제
 ![스크린샷 2025-05-25 오후 5 23 41](https://github.com/user-attachments/assets/63f9bcc8-6cda-4656-8993-ddfc78262a78)
 
