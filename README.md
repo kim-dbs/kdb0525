@@ -172,7 +172,7 @@ Travel Agent ←→ Restaurant Agent ←→ Calendar Agent
 ## 📁 프로젝트 구조
 
 ```
-kakaobank/
+travel-agent/
 ├── main.py                 # Streamlit 메인 앱
 ├── graph.py               # 에이전트 그래프 및 라우터
 ├── requirements.txt       # 의존성 목록
