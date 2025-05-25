@@ -210,8 +210,7 @@ kakaobank/
     │   └── config.py
     └── models/           # 데이터 모델
         ├── __init__.py
-        ├── state.py
-        └── hotel_parser.py
+        └── state.py
 ```
 
 ## 🔄 확장성
