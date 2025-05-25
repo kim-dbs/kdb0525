@@ -24,9 +24,9 @@ def router(state: MessagesState) -> Command:
     messages = state["messages"]
     recent_context = ""
     
-    # 최근 5개 메시지에서 컨텍스트 추출
+    # 10개 메시지 컨텍스트
     if len(messages) > 1:
-        recent_messages = messages[-5:]
+        recent_messages = messages[-10:]
         context_parts = []
         for msg in recent_messages:
             if hasattr(msg, 'content') and msg.content:
